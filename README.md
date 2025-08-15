@@ -39,7 +39,7 @@ YT-Playlist-Time/
 ## Installation
 1. **Clone this repository**:
    ```bash
-   git clone [https://github.com/krishnaAg16/yt-playlist-time.git](https://github.com/krishnaAg16/yt-playlist-time)
+   git clone https://github.com/krishnaAg16/yt-playlist-time
 2. **Open Chrome Extensions page**:
    -  Navigate to chrome://extensions/
    -  Enable Developer mode (toggle in top right corner)
